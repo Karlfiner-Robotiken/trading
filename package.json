@@ -1,0 +1,16 @@
+{
+  "name": "novatrade",
+  "version": "1.0.0",
+  "description": "NovaTrade - Self-Hosted Trading Platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 5000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["trading", "dashboard", "demo"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
